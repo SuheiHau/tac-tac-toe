@@ -74,10 +74,3 @@ const resetGame = () => {
 newGameBtn.addEventListener("click", resetGame);
 reset_btn.addEventListener("click", resetGame);
 
-// echo "# tac-tac-toe" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/SuheiHau/tac-tac-toe.git
-// git push -u origin main
