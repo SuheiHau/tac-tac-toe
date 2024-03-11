@@ -32,9 +32,11 @@ body{
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
     font-size: 15vmin;
     background-color: #ffffc5;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          
+        
 }
 #reset_btn{
 padding: 1rem;
